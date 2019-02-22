@@ -1,0 +1,38 @@
+[
+      {
+        "imageUrl": "https://img.gazeta.ru/files3/837/4860837/hotel-pic668-668x444-62402.jpg",
+        "title": "Будапешт",
+        "description": "Московский отель Будапешт",
+        "roomCost": 5000, 
+        "hasParking": true,
+        "address": "Москва, ул. Петровские Линии, 2",
+        "phone": "8 (495) 729-35-01"
+      },
+      {
+        "imageUrl": "https://cdn.ostrovok.ru/t/640x400/extranet/50/1c/501c6211826d67319ab8503185fa4032ef4eafb2.jpeg",
+        "title": "Космос",
+        "description": "Гостиница Космос",
+        "roomCost": 3000,
+        "hasParking": false,
+        "address": "Москва, пр-т Мира, 150",
+        "phone": "8 (495) 234-12-06"
+      },
+      {
+        "imageUrl": "http://view-photo.ru/wp-content/uploads/2015/10/20140525-DSC03422-1080x680.jpg",
+        "title": "Radisson Royal",
+        "description": "Radisson Royal Hotel",
+        "roomCost": 10000,
+        "hasParking": true,
+        "address": "2/1 Kutuzovskiy Avenue Bld. 1",
+        "phone": "+7 495 221-55-55"
+      },
+      {
+        "imageUrl": "https://imagehotels1.cdnvideo.ru/content/images/hotel_static/roomgallery300x200/870/8708315606.jpg",
+        "title": "Винтаж Шереметьево",
+        "description": "Отель Винтаж Шереметьево",
+        "roomCost": 20000,
+        "hasParking": false,
+        "address": "Москва, Ленинградское шоссе 297",
+        "phone": "+7 (495) 221-45-76"
+      }
+    ]
